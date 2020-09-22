@@ -1,0 +1,17 @@
+{
+  "name": "fakharak/crust",
+  "type": "project",
+  "description": "Blazing fast fusion of compiled Asynchronous (Swoole) and (Phalcon) Micro Framework; Extendable to Full Stack (MVC and HMVC) Framework",
+  "keywords": ["framework","crust","swoole","phalcon"],
+  "homepage": "https://yourcompany.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Fakhar Anwar",
+      "email": "fakhar_anwar123@hotmail.com",
+      "homepage": "N/A",
+      "role": "Developer"
+    }
+  ],
+}
+
