@@ -1,5 +1,5 @@
 {
-  "name": "fakharak/crust",
+  "name": "fakharak/CrustPHP",
   "type": "project",
   "description": "Blazing fast fusion of compiled Asynchronous (Swoole) and (Phalcon) Micro Framework; Extendable to Full Stack (MVC and HMVC) Framework",
   "keywords": ["framework","crust","swoole","phalcon"],
