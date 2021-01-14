@@ -2,8 +2,8 @@
 <h1>Ease of Use (for all level PHP Developers):</h1><br/>
 Best about CrustPHP Framework is that the developer does not need knowledge of Architecture / Framework. Plain (core) PHP Developers can start delivering high-throughput REST-APIs ( / Micro-services) rapidly within hours.<br/><br/>
   
-<h1>Ready-made Modules<h1><br/>
-It includes DB configurations Module, JWT-based Authentication Module / Middleware, and sample Controllers to enable PHP developers to focus on coding Business Domani Logic.
+<h1>Ready-made Modules</h1><br/>
+It includes DB configurations Module, JWT-based Authentication Module / Middleware, and sample Controllers to enable PHP developers to focus on coding Business Domain Logic.
 
 <h1>CrustPHP Architecture:</h1><br/>
 The Architectrue supports development of "Gartner's Event-broker model" through "Enterprise Service Bus" for "dynamic choreography" of Event-driven Microservices.<br/><br/>
@@ -24,5 +24,6 @@ To port AI/ML/Data Science libraries PHP-ML and Rubix-ML.
 
 - Swoole enables PHP code (or OPCache code) to load in RAM as Daemon (as an Asynchronous Web and Application Server) making it ultra fast and light-weight (so it is highly suitable for high throughput Micro-services). Swoole also allows IoT and Game Proramming as it supports ease of Network Programing using multiple Network Protocols like MQTT, Web Sockets, TCP, HTTP 1.0 and HTTP 2.0. <br/><br/>
 
--Unlike, Node.js Swoole spans multiple event-lops on Multiple-processes making effective utilization of all computing (CPU) resource for higher throughput (hence, Cloud-effective). This makes Swoole is not limited to only one Process. However, it may allow single-process environment through simple Configuration settings (Array).<br/><br/>
+- Unlike, Node.js Swoole spans multiple event-lops on Multiple-processes making effective utilization of all computing (CPU) resource for higher throughput (hence, Cloud-effective). This makes Swoole is not limited to only one Process. However, it may allow single-process environment through simple Configuration settings (Array).<br/><br/>
+
 - Swoole's (pre-emptive) co-routine based Asynchronous Programming Model is superior to asynch/await in .NET and Node as Coroutiens avoid "maintenance complexities" associated with Asycn/Await styled concurrency. Swoole Architecture is inspired by Go-lang and Netty.
