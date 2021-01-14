@@ -8,5 +8,5 @@ CrustPHP allows rapid development and state-of-the-art choreography of Microserv
 The framework is developed such that even a plain PHP Developer can master it and start delivering massive Microservices with in few hours.<br/><br/>
 It also provides built-in User Management module with JWT Token.<br/><br/>
 
-Future Integrations:
-I aims to port AI/ML/Data Science libraries PHP-ML and Rubix-ML.
+<b>Future Integrations:</b><br/><br/>
+I aim to port AI/ML/Data Science libraries PHP-ML and Rubix-ML.
