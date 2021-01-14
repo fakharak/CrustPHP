@@ -20,6 +20,7 @@ To port AI/ML/Data Science libraries PHP-ML and Rubix-ML.
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <h1>Why Swoole ?</h1><br/>
+
 - Swoole extends PHP with Asynchronous Syntax. It does not require a heavy (resource-hungry hence slower) Web Server/s, running in a separate Process-space than PHP, like APACHE / Ngnix)<br/><br/>
 
 - Swoole enables PHP code (or OPCache code) to load in RAM as Daemon (as an Asynchronous Web and Application Server) making it ultra fast and light-weight (so it is highly suitable for high throughput Micro-services). Swoole also allows IoT and Game Proramming as it supports ease of Network Programing using multiple Network Protocols like MQTT, Web Sockets, TCP, HTTP 1.0 and HTTP 2.0. <br/><br/>
