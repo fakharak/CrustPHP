@@ -8,7 +8,7 @@ It includes DB configurations Module, JWT-based Authentication Module / Middlewa
 <h1>CrustPHP Architecture:</h1><br/>
 The Architectrue supports development of "Gartner's Event-broker model" through "Enterprise Service Bus" for "dynamic choreography" of Event-driven Microservices.<br/><br/>
 CrustPHP enables not only rapid development of Micro-services, but also state-of-the-art dynamic choreography (spinning) of Microservices without Kubernetese.<br/><br/>
-(PHP Developers are free write code without HTTP Controllers using Closures) 
+ <b> Note: </b> PHP Developers are free write code using Closures; without HTTP Controllers. The intent of Micro-service is not to provide implementation of MVC. So, a sample pf Authentication Module extended with Controller is shown in the framework only to show a "proof of concept", not as mandatory part of Framework.
 
 <h1>Underlying Technologies:</h1><br/>
 CrustPHP encapsulates Phalcon Micro ( ;a compiled PHP-Extension written in C++) inside Swoole ( ;a compiled PHP-Extension for Asynchronous Progamming Models) in oreer to build Concurrent Microservices. Why PHP ? Please see at the end. <br/><br/>
