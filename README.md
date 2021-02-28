@@ -11,7 +11,7 @@ CrustPHP enables not only rapid development of Micro-services, but also state-of
  <b> Note: </b> PHP Developers are free write code using Closures; without HTTP Controllers. The intent of Micro-service is not to provide implementation of MVC. So, a sample of Authentication Module extended with Controller is shown in the framework only to show a "proof of concept", not as mandatory part of Framework.
 
 <h1>Underlying Technologies:</h1><br/>
-CrustPHP encapsulates Phalcon Micro ( ;a compiled PHP-Extension written in C++) inside Swoole ( ;a compiled PHP-Extension for Asynchronous Progamming Models) in oreer to build Concurrent Microservices. Why PHP ? Please see at the end. <br/><br/>
+CrustPHP encapsulates Phalcon Micro ( ;a compiled PHP-Extension written in C language) and Swoole ( ;a compiled PHP-Extension for Asynchronous Progamming Models) in order to enable easy / quick development of Concurrent Microservices. Why PHP ? Please see at the end. <br/><br/>
 The framework uses lighting fast Phalcon's "Routing Module" in order to map API Reuqests to HTTP Controllers"  
 
 <h1>Integrations in-process:</h1><br/>
